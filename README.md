@@ -1,6 +1,6 @@
 Hi, I’m @rgodha24!
 @rohangodha on instgram.
-high school sophmore at Brophy College Prep.
+high school junior at Brophy College Prep.
 
 <!---
 rgodha24/rgodha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
