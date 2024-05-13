@@ -1,4 +1,4 @@
-go to [my website](https://rohan.zip) :)
+go to [my website](https://www.rgodha.com) :)
 
 <!---
 rgodha24/rgodha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
